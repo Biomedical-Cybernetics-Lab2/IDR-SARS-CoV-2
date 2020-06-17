@@ -1,0 +1,27 @@
+
+
+
+ CLUSTAL 2.1 Multiple Sequence Alignments
+
+
+Sequence format is Pearson
+Sequence 1: Template_fas       116 aa
+Sequence 2: Template_fas_pdb   116 aa
+Output file name is the same as input file.
+Start of Pairwise alignments
+Aligning...
+
+Sequences (1:2) Aligned. Score:  100
+Guide tree file created:   [/Users/3et/Desktop/corona/structpred/YP_009725299.1/cm1089_1203/align_template.dnd]
+
+There are 1 groups
+Start of Multiple Alignment
+
+Aligning...
+Group 1: Sequences:   2      Score:2552
+Alignment Score 746
+firstres = 1 lastres = 116
+FASTA file created!
+
+Fasta-Alignment file created    [/Users/3et/Desktop/corona/structpred/YP_009725299.1/cm1089_1203/align_template.fasta]
+

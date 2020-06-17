@@ -1,0 +1,9 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_2  and  C_15 
+REMARK    2  A    between atoms: N_3  and  C_19 
+REMARK    3  A    between atoms: C_6  and  C_7 
+ROOT
+HETATM    1 CL   UNL     1      11.780   4.069   0.000  1.00  0.00     0.000 Cl
+ENDROOT
+TORSDOF 3

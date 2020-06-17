@@ -1,0 +1,26 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNL     1       8.161   8.300   0.000  1.00  0.00     0.133 A 
+HETATM    2  C   UNL     1       9.042   7.086   0.000  1.00  0.00     0.031 A 
+HETATM    3  C   UNL     1       6.734   7.836   0.000  1.00  0.00     0.041 A 
+HETATM    4  C   UNL     1       5.435   8.586   0.000  1.00  0.00    -0.049 A 
+HETATM    5  C   UNL     1       4.136   7.836   0.000  1.00  0.00    -0.059 A 
+HETATM    6  C   UNL     1       8.161   5.873   0.000  1.00  0.00    -0.003 A 
+HETATM    7  C   UNL     1       6.734   6.336   0.000  1.00  0.00     0.019 A 
+HETATM    8  C   UNL     1       4.136   6.336   0.000  1.00  0.00     0.037 A 
+HETATM    9  C   UNL     1       5.435   5.586   0.000  1.00  0.00     0.012 A 
+HETATM   10  C   UNL     1       2.837   5.586   0.000  1.00  0.00    -0.004 A 
+HETATM   11  C   UNL     1       1.538   6.336   0.000  1.00  0.00     0.003 A 
+HETATM   12  C   UNL     1       0.239   5.586   0.000  1.00  0.00     0.000 A 
+HETATM   13  C   UNL     1       5.435   4.086   0.000  1.00  0.00    -0.007 A 
+HETATM   14  C   UNL     1       2.837   4.086   0.000  1.00  0.00     0.019 A 
+HETATM   15  C   UNL     1       0.239   4.086   0.000  1.00  0.00    -0.000 A 
+HETATM   16  C   UNL     1       4.136   3.336   0.000  1.00  0.00    -0.006 A 
+HETATM   17  C   UNL     1       1.538   3.336   0.000  1.00  0.00    -0.006 A 
+HETATM   18  C   UNL     1      -1.060   3.336   0.000  1.00  0.00    -0.000 C 
+HETATM   19  C   UNL     1       2.837   7.086   0.000  1.00  0.00     0.011 A 
+HETATM   20  C   UNL     1       6.891   9.328   0.000  1.00  0.00     0.051 A 
+HETATM   21  O   UNL     1       8.624   9.726   0.000  1.00  0.00    -0.225 OA
+ENDROOT
+TORSDOF 0

@@ -1,0 +1,31 @@
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  C_11 
+ROOT
+HETATM    1  O   UNL     1      -8.422   3.136   0.000  1.00  0.00    -0.255 OA
+HETATM    2  C   UNL     1      -9.789   2.518   0.000  1.00  0.00     0.197 A 
+HETATM    3  N   UNL     1      -9.623   1.027   0.000  1.00  0.00    -0.138 NA
+HETATM    4  N   UNL     1      -8.154   0.724   0.000  1.00  0.00    -0.189 N 
+HETATM    5  C   UNL     1      -7.412   2.028   0.000  1.00  0.00     0.277 A 
+HETATM    6  C   UNL     1      -5.032   0.986   0.000  1.00  0.00     0.060 A 
+HETATM    7  C   UNL     1      -3.541   1.152   0.000  1.00  0.00     0.046 A 
+HETATM    8  C   UNL     1      -2.652  -0.056   0.000  1.00  0.00     0.007 A 
+HETATM    9  C   UNL     1      -3.253  -1.430   0.000  1.00  0.00     0.005 A 
+HETATM   10  C   UNL     1      -4.744  -1.596   0.000  1.00  0.00     0.029 A 
+HETATM   11  C   UNL     1      -5.633  -0.388   0.000  1.00  0.00     0.011 A 
+HETATM   12  C   UNL     1      -7.124  -0.554   0.000  1.00  0.00     0.101 A 
+HETATM   13  C   UNL     1      -2.364  -2.638   0.000  1.00  0.00     0.000 C 
+HETATM   14  N   UNL     1      -5.921   2.194   0.000  1.00  0.00    -0.210 NA
+ENDROOT
+BRANCH   2  15
+HETATM   15  C   UNL     1     -11.093   3.260   0.000  1.00  0.00     0.006 A 
+HETATM   16  C   UNL     1     -12.387   2.502   0.000  1.00  0.00     0.078 A 
+HETATM   17  C   UNL     1     -13.691   3.243   0.000  1.00  0.00     0.097 A 
+HETATM   18  C   UNL     1     -13.700   4.743   0.000  1.00  0.00     0.093 A 
+HETATM   19  O   UNL     1     -15.114   2.771   0.000  1.00  0.00    -0.304 OA
+HETATM   20  C   UNL     1     -12.406   5.501   0.000  1.00  0.00     0.057 A 
+HETATM   21  O   UNL     1     -15.130   5.198   0.000  1.00  0.00    -0.304 OA
+HETATM   22  C   UNL     1     -11.102   4.760   0.000  1.00  0.00     0.033 A 
+HETATM   23  C   UNL     1     -16.003   3.979   0.000  1.00  0.00     0.303 A 
+ENDBRANCH   2  15
+TORSDOF 1

@@ -1,0 +1,51 @@
+Date:	March 28, 2020
+Project: COVID-19 Structome
+
+Protein:		YP_009725301.1_nsp5_3C-like_proteinase
+Primary sequence:	YP_009725301.fasta
+Prefilter_file:		YP_009725301.pre_filter.Integrated
+
+
+A] Models:
+
+1. exp_model/
+	Template_sequence:	
+	Model_pdb:		6lu7_YP_009725301.pdb
+	NOTES
+	README
+
+2. local_modeling_1_306/
+	Template_sequence:	3m3v.fasta.txt
+	Template_pdb:		3m3v.pdb
+	Model_pdb:		YP_009725301_LM_1_306.pdb
+
+	Query_Template_alignment_files:
+		align_query_template.fasta
+		clustal_align_query_template.out
+		additions_query_template.txt
+		deletion_query_template.txt
+		substitutions_query_template.txt
+		substitutions_query_template_vmd.txt
+
+
+B] Tools_outputs:
+
+tools_outputs/
+	YP_009725301.1_3C-like_proteinase_MatPep.blastp
+	YP_009725301.1_3C-like_proteinase_MatPep.pfam
+
+C] SARS-CoV-1, SARS-CoV-2 comparison:
+
+cov_files/
+
+a) Alignments
+	align_cov1_cov2.dnd
+	align_cov1_cov2.fasta
+	clustal_align_cov1_cov2.out
+
+b) Additions, Deletions, Substitutions
+	additions_cov1_cov2.txt
+	deletions_cov1_cov2.txt
+	substitutions_cov1_cov2.txt
+	substitutions_cov1_cov2_ncons.txt
+	substitutions_cov1_cov2_vmd.txt

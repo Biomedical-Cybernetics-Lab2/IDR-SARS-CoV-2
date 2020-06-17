@@ -1,0 +1,1946 @@
+Count	Residue	Pfam-Domains	SignalP	Disorder_Final	TMHMM	Blastp	MethodType(s)
+    1	A	0	0	0.00	0	High:78.571:2GRI_A	
+    2	P	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169
+    3	T	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169
+    4	K	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169
+    5	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+    6	T	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+    7	F	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+    8	G	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+    9	D	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   10	D	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   11	T	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   12	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   13	I	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   14	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   15	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   16	Q	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   17	G	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   18	Y	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   19	K	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   20	S	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   21	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   22	N	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   23	I	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   24	T	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   25	F	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   26	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   27	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   28	D	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   29	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   30	R	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   31	I	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   32	D	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   33	K	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   34	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   35	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   36	N	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   37	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   38	K	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   39	C	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   40	S	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   41	A	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   42	Y	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   43	T	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   44	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   45	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   46	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   47	G	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   48	T	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   49	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   50	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   51	N	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   52	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   53	F	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   54	A	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   55	C	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   56	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   57	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   58	A	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   59	D	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   60	A	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   61	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   62	I	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   63	K	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   64	T	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   65	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   66	Q	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   67	P	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   68	V	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   69	S	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   70	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   71	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   72	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   73	T	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   74	P	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   75	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   76	G	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   77	I	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   78	D	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   79	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   80	D	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   81	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   82	W	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   83	S	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   84	M	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   85	A	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   86	T	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   87	Y	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   88	Y	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   89	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   90	F	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   91	D	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   92	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   93	S	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   94	G	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   95	E	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   96	F	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   97	K	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   98	L	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+   99	A	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  100	S	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  101	H	0	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  102	M	1	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  103	Y	1	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  104	C	1	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  105	S	1	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  106	F	1	0	0.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  107	Y	1	0	1.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  108	P	1	0	1.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  109	P	1	0	1.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  110	D	1	0	1.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  111	E	1	0	1.00	0	High:78.571:2GRI_A	fragment_based_2_169:local_modeling_5_111
+  112	D	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  113	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  114	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  115	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  116	G	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  117	D	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  118	C	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  119	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  120	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  121	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  122	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  123	F	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  124	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  125	P	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  126	S	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  127	T	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  128	Q	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  129	Y	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  130	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  131	Y	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  132	G	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  133	T	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  134	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  135	D	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  136	D	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  137	Y	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  138	Q	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  139	G	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  140	K	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  141	P	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  142	L	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  143	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  144	F	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  145	G	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  146	A	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  147	T	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  148	S	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  149	A	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  150	A	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  151	L	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  152	Q	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  153	P	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  154	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  155	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  156	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  157	Q	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  158	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  159	E	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  160	D	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  161	W	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  162	L	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  163	D	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  164	D	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  165	D	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  166	S	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  167	Q	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  168	Q	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  169	T	1	0	1.00	0	Zero:0.00:NoTmplt	fragment_based_2_169
+  170	V	0	0	1.00	0	Zero:0.00:NoTmplt	
+  171	G	0	0	1.00	0	Zero:0.00:NoTmplt	
+  172	Q	0	0	1.00	0	Zero:0.00:NoTmplt	
+  173	Q	0	0	1.00	0	Zero:0.00:NoTmplt	
+  174	D	0	0	1.00	0	Zero:0.00:NoTmplt	
+  175	G	0	0	1.00	0	Zero:0.00:NoTmplt	
+  176	S	0	0	1.00	0	Zero:0.00:NoTmplt	
+  177	E	0	0	1.00	0	Zero:0.00:NoTmplt	
+  178	D	0	0	1.00	0	Zero:0.00:NoTmplt	
+  179	N	0	0	1.00	0	Zero:0.00:NoTmplt	
+  180	Q	0	0	1.00	0	Zero:0.00:NoTmplt	
+  181	T	0	0	1.00	0	Zero:0.00:NoTmplt	
+  182	T	0	0	1.00	0	Zero:0.00:NoTmplt	
+  183	T	0	0	1.00	0	Zero:0.00:NoTmplt	
+  184	I	0	0	1.00	0	Zero:0.00:NoTmplt	
+  185	Q	0	0	1.00	0	Zero:0.00:NoTmplt	
+  186	T	0	0	1.00	0	Zero:0.00:NoTmplt	
+  187	I	0	0	1.00	0	Zero:0.00:NoTmplt	
+  188	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+  189	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  190	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+  191	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+  192	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+  193	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+  194	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+  195	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  196	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+  197	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  198	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+  199	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+  200	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+  201	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+  202	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+  203	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+  204	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+  205	I	0	0	0.00	0	High:72.941:2ACF_A	local_modeling_205_374
+  206	E	0	0	0.00	0	High:72.941:2ACF_A	local_modeling_205_374
+  207	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  208	N	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  209	S	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  210	F	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  211	S	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  212	G	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  213	Y	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  214	L	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  215	K	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  216	L	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  217	T	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  218	D	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  219	N	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  220	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  221	Y	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  222	I	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  223	K	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  224	N	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  225	A	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  226	D	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  227	I	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  228	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  229	E	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  230	E	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  231	A	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  232	K	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  233	K	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  234	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  235	K	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  236	P	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  237	T	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  238	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  239	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  240	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  241	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  242	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  243	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  244	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  245	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  246	Y	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  247	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  248	K	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  249	H	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  250	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  251	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  252	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  253	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  254	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  255	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  256	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  257	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  258	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  259	K	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  260	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  261	T	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  262	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  263	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  264	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  265	M	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  266	Q	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  267	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  268	E	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  269	S	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  270	D	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  271	D	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  272	Y	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  273	I	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  274	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  275	T	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  276	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  277	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  278	P	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  279	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  280	K	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  281	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  282	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  283	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  284	S	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  285	C	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  286	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  287	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  288	S	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  289	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  290	H	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  291	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  292	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  293	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  294	K	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  295	H	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  296	C	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  297	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  298	H	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  299	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  300	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  301	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  302	P	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  303	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  304	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  305	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  306	K	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  307	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  308	E	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  309	D	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  310	I	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  311	Q	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  312	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  313	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  314	K	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  315	S	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  316	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  317	Y	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  318	E	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  319	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  320	F	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  321	N	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  322	Q	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  323	H	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  324	E	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  325	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  326	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  327	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  328	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  329	P	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  330	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  331	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  332	S	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  333	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  334	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  335	I	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  336	F	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  337	G	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  338	A	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  339	D	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  340	P	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  341	I	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  342	H	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  343	S	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  344	L	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  345	R	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  346	V	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  347	C	1	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  348	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  349	D	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  350	T	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  351	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  352	R	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  353	T	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  354	N	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  355	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  356	Y	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  357	L	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  358	A	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  359	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  360	F	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  361	D	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  362	K	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  363	N	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  364	L	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  365	Y	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  366	D	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  367	K	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  368	L	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  369	V	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  370	S	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  371	S	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  372	F	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  373	L	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  374	E	0	0	0.00	0	High:73.214:2FAV_A	local_modeling_205_374
+  375	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+  376	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  377	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+  378	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  379	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  380	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+  381	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+  382	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  383	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+  384	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  385	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+  386	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+  387	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  388	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+  389	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+  390	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  391	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  392	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  393	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+  394	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  395	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+  396	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+  397	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+  398	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+  399	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  400	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+  401	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  402	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+  403	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+  404	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+  405	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  406	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+  407	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+  408	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  409	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+  410	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+  411	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+  412	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  413	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  414	I	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  415	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  416	A	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  417	C	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  418	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  419	E	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  420	E	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  421	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  422	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  423	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  424	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  425	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  426	E	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  427	E	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  428	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  429	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  430	F	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  431	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  432	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  433	E	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  434	N	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  435	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  436	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  437	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  438	Y	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  439	I	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  440	D	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  441	I	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  442	N	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  443	G	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  444	N	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  445	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  446	H	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  447	P	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  448	D	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  449	S	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  450	A	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  451	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  452	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  453	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  454	S	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  455	D	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  456	I	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  457	D	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  458	I	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  459	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  460	F	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  461	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  462	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  463	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  464	D	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  465	A	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  466	P	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  467	Y	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  468	I	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  469	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  470	G	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  471	D	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  472	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  473	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  474	Q	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  475	E	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  476	G	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  477	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  478	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  479	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  480	A	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  481	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  482	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  483	I	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  484	P	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  485	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  486	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  487	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  488	A	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  489	G	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  490	G	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  491	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  492	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  493	E	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  494	M	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  495	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  496	A	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  497	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  498	A	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  499	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  500	R	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  501	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  502	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  503	P	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  504	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  505	D	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  506	N	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  507	Y	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  508	I	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  509	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  510	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  511	Y	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  512	P	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  513	G	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  514	Q	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  515	G	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  516	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  517	N	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  518	G	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  519	Y	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  520	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  521	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  522	E	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  523	E	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  524	A	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  525	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  526	T	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  527	V	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  528	L	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  529	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  530	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  531	C	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  532	K	0	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  533	S	1	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  534	A	1	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  535	F	1	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  536	Y	1	0	0.00	0	High:75.000:2W2G_A	local_modeling_413_676:fragment_based_413_676
+  537	I	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  538	L	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  539	P	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  540	S	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  541	I	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  542	I	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  543	S	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  544	N	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  545	E	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  546	K	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  547	Q	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  548	E	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  549	I	1	0	0.00	0	High:79.137:2JZF_A	local_modeling_413_676:fragment_based_413_676
+  550	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  551	G	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  552	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  553	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  554	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  555	W	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  556	N	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  557	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  558	R	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  559	E	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  560	M	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  561	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  562	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  563	H	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  564	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  565	E	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  566	E	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  567	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  568	R	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  569	K	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  570	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  571	M	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  572	P	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  573	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  574	C	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  575	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  576	E	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  577	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  578	K	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  579	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  580	I	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  581	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  582	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  583	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  584	I	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  585	Q	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  586	R	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  587	K	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  588	Y	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  589	K	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  590	G	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  591	I	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  592	K	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  593	I	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  594	Q	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  595	E	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  596	G	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  597	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  598	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  599	D	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  600	Y	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  601	G	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  602	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  603	R	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  604	F	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  605	Y	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  606	F	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  607	Y	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  608	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  609	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  610	K	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  611	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  612	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  613	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  614	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  615	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  616	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  617	I	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  618	N	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  619	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  620	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  621	N	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  622	D	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  623	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  624	N	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  625	E	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  626	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  627	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  628	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  629	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  630	M	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  631	P	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  632	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  633	G	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  634	Y	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  635	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  636	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  637	H	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  638	G	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  639	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  640	N	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  641	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  642	E	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  643	E	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  644	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  645	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  646	R	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  647	Y	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  648	M	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  649	R	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  650	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  651	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  652	K	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  653	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  654	P	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  655	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  656	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  657	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  658	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  659	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  660	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  661	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  662	P	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  663	D	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  664	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  665	V	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  666	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  667	A	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  668	Y	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  669	N	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  670	G	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  671	Y	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  672	L	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  673	T	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  674	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  675	S	1	0	0.00	0	ClsHmlg:80.952:2JZD_A	local_modeling_413_676:fragment_based_413_676
+  676	S	1	0	0.00	0	High:79.348:2KQV_A	local_modeling_413_676:fragment_based_413_676
+  677	K	1	0	0.00	0	High:79.348:2KQV_A	
+  678	T	1	0	0.00	0	High:79.348:2KQV_A	
+  679	P	1	0	0.00	0	High:79.348:2KQV_A	
+  680	E	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  681	E	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  682	H	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  683	F	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  684	I	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  685	E	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  686	T	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  687	I	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  688	S	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  689	L	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  690	A	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  691	G	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  692	S	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  693	Y	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  694	K	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  695	D	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  696	W	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  697	S	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  698	Y	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  699	S	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  700	G	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  701	Q	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  702	S	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  703	T	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  704	Q	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  705	L	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  706	G	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  707	I	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  708	E	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  709	F	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  710	L	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  711	K	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  712	R	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  713	G	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  714	D	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  715	K	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  716	S	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  717	V	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  718	Y	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  719	Y	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  720	T	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  721	S	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  722	N	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  723	P	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  724	T	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  725	T	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  726	F	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  727	H	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  728	L	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  729	D	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  730	G	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  731	E	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  732	V	1	0	0.00	0	High:79.348:2KQV_A	abinitio_680_743
+  733	I	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  734	T	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  735	F	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  736	D	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  737	N	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  738	L	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  739	K	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  740	T	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  741	L	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  742	L	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  743	S	1	0	0.00	0	Zero:0.00:NoTmplt	abinitio_680_743
+  744	L	1	0	0.00	0	Zero:0.00:NoTmplt	
+  745	R	1	0	0.00	0	Zero:0.00:NoTmplt	
+  746	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  747	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  748	R	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  749	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  750	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  751	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  752	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  753	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  754	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  755	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  756	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  757	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  758	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  759	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  760	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  761	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  762	H	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  763	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  764	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  765	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  766	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  767	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  768	M	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  769	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  770	M	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  771	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  772	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  773	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  774	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  775	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  776	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  777	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  778	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  779	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  780	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  781	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  782	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  783	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  784	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  785	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  786	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  787	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  788	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  789	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  790	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  791	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  792	H	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  793	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  794	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  795	H	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  796	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  797	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  798	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  799	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  800	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  801	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  802	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  803	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  804	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  805	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  806	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  807	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  808	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  809	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  810	R	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  811	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  812	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  813	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  814	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  815	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  816	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  817	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  818	H	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  819	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  820	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  821	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  822	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  823	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  824	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  825	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  826	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  827	R	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  828	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  829	M	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  830	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  831	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  832	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  833	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  834	H	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  835	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  836	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  837	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  838	W	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  839	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  840	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  841	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  842	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  843	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  844	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  845	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  846	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  847	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  848	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  849	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  850	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  851	W	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  852	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  853	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  854	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  855	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  856	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  857	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  858	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  859	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  860	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  861	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  862	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  863	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  864	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  865	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  866	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  867	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  868	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  869	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  870	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  871	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  872	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  873	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  874	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  875	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  876	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  877	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  878	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  879	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  880	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  881	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  882	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  883	R	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  884	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  885	R	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  886	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  887	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  888	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  889	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  890	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  891	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  892	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  893	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  894	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  895	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  896	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  897	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  898	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  899	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  900	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  901	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  902	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  903	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  904	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  905	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  906	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  907	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  908	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  909	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  910	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  911	R	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  912	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  913	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  914	M	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  915	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  916	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  917	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  918	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  919	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  920	H	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  921	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  922	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  923	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  924	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  925	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  926	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  927	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  928	R	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  929	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  930	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  931	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  932	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  933	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  934	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  935	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  936	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  937	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  938	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  939	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  940	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  941	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  942	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  943	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  944	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  945	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  946	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  947	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  948	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  949	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  950	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  951	M	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  952	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  953	M	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  954	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  955	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  956	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  957	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  958	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  959	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  960	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  961	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  962	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  963	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  964	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  965	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  966	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  967	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  968	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  969	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  970	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  971	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  972	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  973	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  974	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  975	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  976	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  977	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  978	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  979	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  980	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  981	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  982	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  983	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  984	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  985	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  986	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  987	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  988	M	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  989	M	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  990	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  991	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  992	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  993	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  994	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  995	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  996	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  997	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  998	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+  999	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1000	H	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1001	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1002	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1003	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1004	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1005	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1006	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1007	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1008	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1009	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1010	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1011	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1012	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1013	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1014	Q	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1015	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1016	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1017	H	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1018	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1019	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1020	H	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1021	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1022	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1023	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1024	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1025	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1026	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1027	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1028	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1029	C	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1030	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1031	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1032	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1033	A	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1034	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1035	L	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1036	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1037	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1038	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1039	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1040	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1041	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1042	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1043	G	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1044	P	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1045	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1046	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1047	D	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1048	V	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1049	F	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1050	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1051	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1052	E	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1053	N	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1054	S	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1055	Y	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1056	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1057	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1058	T	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1059	I	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1060	K	1	0	0.00	0	ClsHmlg:82.857:5TL6_B	local_modeling_746_1062
+ 1061	P	1	0	0.00	0	ClsHmlg:82.650:5E6J_A	local_modeling_746_1062
+ 1062	V	1	0	0.00	0	ClsHmlg:82.650:5E6J_A	local_modeling_746_1062
+ 1063	T	1	0	0.00	0	ClsHmlg:82.390:4M0W_A	
+ 1064	Y	0	0	0.00	0	High:31.098:4R3D_A	
+ 1065	K	0	0	0.00	0	High:31.098:4R3D_A	
+ 1066	L	0	0	0.00	0	High:31.098:4R3D_A	
+ 1067	D	0	0	0.00	0	High:31.098:4R3D_A	
+ 1068	G	0	0	0.00	0	High:31.098:4R3D_A	
+ 1069	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1070	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1071	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1072	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1073	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1074	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1075	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1076	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1077	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1078	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1079	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1080	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1081	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1082	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1083	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1084	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1085	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1086	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1087	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1088	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1089	F	0	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1090	T	0	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1091	E	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1092	Q	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1093	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1094	I	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1095	D	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1096	L	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1097	V	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1098	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1099	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1100	Q	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1101	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1102	Y	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1103	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1104	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1105	A	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1106	S	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1107	F	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1108	D	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1109	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1110	F	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1111	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1112	F	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1113	V	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1114	C	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1115	D	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1116	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1117	I	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1118	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1119	F	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1120	A	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1121	D	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1122	D	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1123	L	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1124	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1125	Q	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1126	L	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1127	T	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1128	G	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1129	Y	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1130	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1131	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1132	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1133	A	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1134	S	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1135	R	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1136	E	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1137	L	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1138	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1139	V	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1140	T	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1141	F	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1142	F	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1143	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1144	D	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1145	L	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1146	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1147	G	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1148	D	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1149	V	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1150	V	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1151	A	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1152	I	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1153	D	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1154	Y	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1155	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1156	H	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1157	Y	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1158	T	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1159	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1160	S	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1161	F	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1162	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1163	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1164	G	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1165	A	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1166	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1167	L	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1168	L	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1169	H	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1170	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1171	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1172	I	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1173	V	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1174	W	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1175	H	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1176	V	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1177	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1178	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1179	A	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1180	T	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1181	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1182	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1183	A	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1184	T	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1185	Y	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1186	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1187	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1188	N	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1189	T	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1190	W	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1191	C	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1192	I	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1193	R	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1194	C	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1195	L	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1196	W	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1197	S	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1198	T	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1199	K	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1200	P	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1201	V	1	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1202	E	0	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1203	T	0	0	0.00	0	ClsHmlg:81.739:2K87_A	local_modeling_1089_1203
+ 1204	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1205	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1206	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1207	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1208	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1209	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1210	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1211	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1212	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1213	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1214	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1215	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1216	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1217	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1218	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1219	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1220	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1221	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1222	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1223	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1224	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1225	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1226	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1227	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1228	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1229	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1230	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1231	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1232	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1233	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1234	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1235	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1236	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1237	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1238	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1239	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1240	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1241	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1242	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1243	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1244	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1245	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1246	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1247	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1248	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1249	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1250	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1251	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1252	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1253	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1254	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1255	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1256	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1257	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1258	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1259	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1260	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1261	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1262	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1263	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1264	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1265	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1266	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1267	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1268	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1269	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1270	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1271	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1272	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1273	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1274	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1275	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1276	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1277	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1278	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1279	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1280	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1281	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1282	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1283	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1284	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1285	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1286	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1287	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1288	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1289	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1290	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1291	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1292	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1293	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1294	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1295	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1296	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1297	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1298	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1299	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1300	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1301	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1302	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1303	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1304	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1305	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1306	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1307	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1308	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1309	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1310	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1311	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1312	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1313	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1314	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1315	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1316	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1317	W	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1318	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1319	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1320	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1321	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1322	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1323	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1324	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1325	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1326	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1327	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1328	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1329	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1330	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1331	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1332	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1333	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1334	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1335	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1336	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1337	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1338	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1339	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1340	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1341	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1342	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1343	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1344	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1345	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1346	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1347	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1348	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1349	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1350	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1351	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1352	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1353	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1354	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1355	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1356	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1357	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1358	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1359	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1360	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1361	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1362	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1363	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1364	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1365	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1366	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1367	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1368	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1369	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1370	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1371	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1372	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1373	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1374	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1375	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1376	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1377	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1378	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1379	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1380	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1381	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1382	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1383	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1384	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1385	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1386	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1387	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1388	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1389	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1390	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1391	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1392	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1393	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1394	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1395	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1396	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1397	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1398	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1399	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1400	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1401	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1402	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1403	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1404	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1405	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1406	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1407	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1408	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1409	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1410	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1411	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1412	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1413	I	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1414	W	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1415	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1416	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1417	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1418	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1419	S	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1420	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1421	C	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1422	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1423	G	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1424	S	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1425	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1426	I	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1427	Y	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1428	S	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1429	T	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1430	A	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1431	A	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1432	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1433	G	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1434	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1435	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1436	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1437	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1438	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1439	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1440	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1441	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1442	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1443	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1444	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1445	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1446	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1447	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1448	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1449	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1450	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1451	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1452	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1453	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1454	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1455	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1456	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1457	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1458	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1459	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1460	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1461	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1462	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1463	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1464	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1465	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1466	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1467	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1468	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1469	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1470	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1471	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1472	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1473	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1474	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1475	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1476	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1477	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1478	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1479	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1480	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1481	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1482	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1483	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1484	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1485	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1486	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1487	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1488	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1489	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1490	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1491	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1492	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1493	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1494	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1495	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1496	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1497	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1498	W	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1499	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1500	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1501	T	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1502	A	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1503	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1504	G	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1505	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1506	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1507	A	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1508	E	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1509	W	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1510	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1511	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1512	A	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1513	Y	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1514	I	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1515	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1516	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1517	T	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1518	R	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1519	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1520	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1521	Y	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1522	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1523	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1524	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1525	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1526	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1527	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1528	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1529	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1530	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1531	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1532	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1533	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1534	S	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1535	Y	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1536	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1537	A	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1538	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1539	H	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1540	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1541	I	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1542	S	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1543	N	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1544	S	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1545	W	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1546	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1547	M	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1548	W	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1549	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1550	I	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1551	I	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1552	N	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1553	L	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1554	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1555	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1556	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1557	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1558	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1559	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1560	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1561	A	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1562	M	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1563	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1564	R	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1565	M	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1566	Y	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1567	I	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1568	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1569	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1570	A	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1571	S	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1572	F	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1573	Y	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1574	Y	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1575	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1576	W	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1577	K	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1578	S	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1579	Y	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1580	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1581	H	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1582	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1583	V	0	0	0.00	1	Zero:0.00:NoTmplt	
+ 1584	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1585	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1586	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1587	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1588	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1589	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1590	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1591	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1592	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1593	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1594	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1595	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1596	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1597	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1598	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1599	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1600	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1601	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1602	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1603	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1604	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1605	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1606	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1607	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1608	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1609	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1610	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1611	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1612	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1613	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1614	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1615	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1616	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1617	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1618	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1619	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1620	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1621	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1622	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1623	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1624	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1625	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1626	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1627	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1628	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1629	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1630	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1631	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1632	W	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1633	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1634	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1635	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1636	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1637	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1638	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1639	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1640	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1641	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1642	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1643	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1644	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1645	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1646	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1647	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1648	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1649	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1650	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1651	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1652	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1653	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1654	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1655	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1656	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1657	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1658	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1659	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1660	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1661	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1662	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1663	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1664	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1665	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1666	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1667	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1668	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1669	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1670	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1671	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1672	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1673	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1674	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1675	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1676	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1677	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1678	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1679	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1680	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1681	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1682	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1683	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1684	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1685	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1686	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1687	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1688	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1689	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1690	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1691	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1692	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1693	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1694	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1695	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1696	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1697	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1698	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1699	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1700	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1701	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1702	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1703	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1704	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1705	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1706	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1707	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1708	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1709	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1710	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1711	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1712	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1713	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1714	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1715	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1716	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1717	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1718	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1719	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1720	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1721	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1722	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1723	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1724	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1725	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1726	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1727	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1728	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1729	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1730	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1731	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1732	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1733	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1734	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1735	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1736	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1737	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1738	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1739	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1740	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1741	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1742	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1743	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1744	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1745	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1746	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1747	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1748	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1749	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1750	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1751	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1752	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1753	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1754	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1755	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1756	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1757	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1758	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1759	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1760	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1761	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1762	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1763	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1764	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1765	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1766	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1767	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1768	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1769	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1770	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1771	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1772	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1773	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1774	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1775	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1776	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1777	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1778	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1779	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1780	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1781	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1782	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1783	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1784	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1785	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1786	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1787	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1788	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1789	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1790	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1791	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1792	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1793	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1794	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1795	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1796	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1797	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1798	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1799	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1800	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1801	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1802	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1803	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1804	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1805	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1806	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1807	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1808	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1809	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1810	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1811	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1812	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1813	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1814	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1815	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1816	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1817	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1818	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1819	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1820	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1821	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1822	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1823	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1824	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1825	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1826	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1827	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1828	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1829	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1830	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1831	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1832	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1833	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1834	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1835	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1836	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1837	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1838	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1839	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1840	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1841	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1842	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1843	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1844	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1845	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1846	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1847	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1848	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1849	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1850	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1851	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1852	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1853	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1854	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1855	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1856	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1857	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1858	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1859	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1860	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1861	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1862	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1863	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1864	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1865	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1866	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1867	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1868	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1869	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1870	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1871	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1872	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1873	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1874	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1875	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1876	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1877	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1878	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1879	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1880	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1881	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1882	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1883	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1884	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1885	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1886	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1887	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1888	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1889	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1890	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1891	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1892	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1893	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1894	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1895	W	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1896	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1897	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1898	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1899	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1900	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1901	M	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1902	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1903	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1904	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1905	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1906	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1907	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1908	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1909	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1910	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1911	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1912	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1913	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1914	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1915	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1916	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1917	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1918	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1919	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1920	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1921	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1922	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1923	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1924	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1925	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1926	C	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1927	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1928	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1929	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1930	R	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1931	Q	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1932	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1933	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1934	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1935	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1936	V	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1937	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1938	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1939	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1940	I	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1941	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1942	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1943	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1944	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+ 1945	G	0	0	0.00	0	Zero:0.00:NoTmplt	

@@ -1,0 +1,31 @@
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_15  and  O_22 
+ROOT
+HETATM    1  O   UNL     1       7.245   6.750   0.000  1.00  0.00    -0.189 OA
+HETATM    2  N   UNL     1       7.245   2.250   0.000  1.00  0.00     0.040 N 
+HETATM    3  H   UNL     1       7.245   0.750   0.000  1.00  0.00     0.303 HD
+HETATM    4 BR   UNL     1       8.544   1.500   0.000  1.00  0.00     0.127 Br
+HETATM    5  H   UNL     1       9.843   6.750   0.000  1.00  0.00     0.169 HD
+HETATM    6  O   UNL     1       9.843   0.750   0.000  1.00  0.00    -0.173 OA
+HETATM    7  N   UNL     1       9.843   5.250   0.000  1.00  0.00    -0.318 N 
+HETATM    8  N   UNL     1      11.142   3.000   0.000  1.00  0.00    -0.298 N 
+HETATM    9  H   UNL     1      12.441   2.250   0.000  1.00  0.00     0.171 HD
+HETATM   10  O   UNL     1      12.441   5.250   0.000  1.00  0.00    -0.151 OA
+HETATM   11  C   UNL     1       7.245   5.250   0.000  1.00  0.00     0.143 A 
+HETATM   12  C   UNL     1       8.544   4.500   0.000  1.00  0.00     0.108 A 
+HETATM   13  C   UNL     1       5.946   4.500   0.000  1.00  0.00     0.027 A 
+HETATM   14  C   UNL     1       4.647   5.250   0.000  1.00  0.00     0.059 A 
+HETATM   15  C   UNL     1       3.348   4.500   0.000  1.00  0.00     0.120 A 
+HETATM   16  C   UNL     1       8.544   3.000   0.000  1.00  0.00     0.328 A 
+HETATM   17  C   UNL     1       5.946   3.000   0.000  1.00  0.00     0.149 A 
+HETATM   18  C   UNL     1       3.348   3.000   0.000  1.00  0.00     0.036 A 
+HETATM   19  C   UNL     1       9.843   2.250   0.000  1.00  0.00     0.215 A 
+HETATM   20  C   UNL     1       4.647   2.250   0.000  1.00  0.00     0.055 A 
+HETATM   21  C   UNL     1      11.142   4.500   0.000  1.00  0.00     0.258 A 
+ENDROOT
+BRANCH  15  22
+HETATM   22  O   UNL     1       2.049   5.250   0.000  1.00  0.00    -0.354 OA
+HETATM   23  C   UNL     1       0.750   4.500   0.000  1.00  0.00     0.174 C 
+ENDBRANCH  15  22
+TORSDOF 1

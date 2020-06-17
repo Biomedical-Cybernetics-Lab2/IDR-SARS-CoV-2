@@ -1,0 +1,181 @@
+Count	Residue	Pfam-Domains	SignalP	Disorder_Final	TMHMM	Blastp	MethodType(s)
+    1	M	0	0	1.00	0	Zero:0.00:NoTmplt	
+    2	E	0	0	1.00	0	Zero:0.00:NoTmplt	
+    3	S	0	0	1.00	0	Zero:0.00:NoTmplt	
+    4	L	0	0	1.00	0	Zero:0.00:NoTmplt	
+    5	V	0	0	1.00	0	Zero:0.00:NoTmplt	
+    6	P	0	0	1.00	0	Zero:0.00:NoTmplt	
+    7	G	0	0	1.00	0	Zero:0.00:NoTmplt	
+    8	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+    9	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+   10	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+   11	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+   12	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+   13	H	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	local_modeling_13_127
+   14	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   15	Q	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   16	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   17	S	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   18	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   19	P	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   20	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   21	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   22	Q	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   23	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   24	R	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   25	D	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   26	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   27	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   28	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   29	R	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   30	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   31	F	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   32	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   33	D	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   34	S	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   35	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   36	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   37	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   38	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   39	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   40	S	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   41	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   42	A	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   43	R	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   44	Q	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   45	H	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   46	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   47	K	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   48	D	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   49	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   50	T	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   51	C	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   52	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   53	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   54	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   55	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   56	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   57	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   58	K	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   59	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   60	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   61	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   62	P	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   63	Q	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   64	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   65	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   66	Q	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   67	P	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   68	Y	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   69	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   70	F	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   71	I	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   72	K	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   73	R	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   74	S	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   75	D	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   76	A	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   77	R	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   78	T	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   79	A	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   80	P	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   81	H	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   82	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   83	H	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   84	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   85	M	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   86	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   87	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   88	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   89	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   90	A	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   91	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   92	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   93	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   94	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   95	I	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   96	Q	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   97	Y	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   98	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+   99	R	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  100	S	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  101	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  102	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  103	T	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  104	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  105	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  106	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  107	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  108	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  109	P	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  110	H	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  111	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  112	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  113	E	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  114	I	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  115	P	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  116	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  117	A	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  118	Y	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  119	R	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  120	K	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  121	V	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  122	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  123	L	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  124	R	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  125	K	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  126	N	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  127	G	1	0	0.00	0	ClsHmlg:86.087:2GDT_A	fragment_based_14_127
+  128	N	0	0	0.00	0	Zero:0.00:NoTmplt	
+  129	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  130	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+  131	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+  132	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+  133	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+  134	H	0	0	0.00	0	Zero:0.00:NoTmplt	
+  135	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+  136	Y	0	0	0.00	0	Zero:0.00:NoTmplt	
+  137	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+  138	A	0	0	0.00	0	Zero:0.00:NoTmplt	
+  139	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+  140	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+  141	K	0	0	0.00	0	Zero:0.00:NoTmplt	
+  142	S	0	0	0.00	0	Zero:0.00:NoTmplt	
+  143	F	0	0	0.00	0	Zero:0.00:NoTmplt	
+  144	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+  145	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+  146	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+  147	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+  148	E	0	0	0.00	0	Zero:0.00:NoTmplt	
+  149	L	0	0	0.00	0	Zero:0.00:NoTmplt	
+  150	G	0	0	0.00	0	Zero:0.00:NoTmplt	
+  151	T	0	0	0.00	0	Zero:0.00:NoTmplt	
+  152	D	0	0	0.00	0	Zero:0.00:NoTmplt	
+  153	P	0	0	0.00	0	Zero:0.00:NoTmplt	
+  154	Y	0	0	1.00	0	Zero:0.00:NoTmplt	
+  155	E	0	0	1.00	0	Zero:0.00:NoTmplt	
+  156	D	0	0	1.00	0	Zero:0.00:NoTmplt	
+  157	F	0	0	1.00	0	Zero:0.00:NoTmplt	
+  158	Q	0	0	1.00	0	Zero:0.00:NoTmplt	
+  159	E	0	0	1.00	0	Zero:0.00:NoTmplt	
+  160	N	0	0	1.00	0	Zero:0.00:NoTmplt	
+  161	W	0	0	1.00	0	Zero:0.00:NoTmplt	
+  162	N	0	0	1.00	0	Zero:0.00:NoTmplt	
+  163	T	0	0	1.00	0	Zero:0.00:NoTmplt	
+  164	K	0	0	1.00	0	Zero:0.00:NoTmplt	
+  165	H	0	0	1.00	0	Zero:0.00:NoTmplt	
+  166	S	0	0	1.00	0	Zero:0.00:NoTmplt	
+  167	S	0	0	1.00	0	Zero:0.00:NoTmplt	
+  168	G	0	0	1.00	0	Zero:0.00:NoTmplt	
+  169	V	0	0	1.00	0	Zero:0.00:NoTmplt	
+  170	T	0	0	1.00	0	Zero:0.00:NoTmplt	
+  171	R	0	0	1.00	0	Zero:0.00:NoTmplt	
+  172	E	0	0	1.00	0	Zero:0.00:NoTmplt	
+  173	L	0	0	1.00	0	Zero:0.00:NoTmplt	
+  174	M	0	0	1.00	0	Zero:0.00:NoTmplt	
+  175	R	0	0	1.00	0	Zero:0.00:NoTmplt	
+  176	E	0	0	1.00	0	Zero:0.00:NoTmplt	
+  177	L	0	0	1.00	0	Zero:0.00:NoTmplt	
+  178	N	0	0	1.00	0	Zero:0.00:NoTmplt	
+  179	G	0	0	1.00	0	Zero:0.00:NoTmplt	
+  180	G	0	0	1.00	0	Zero:0.00:NoTmplt	

@@ -1,0 +1,27 @@
+
+
+
+ CLUSTAL 2.1 Multiple Sequence Alignments
+
+
+Sequence format is Pearson
+Sequence 1: sp|P0C6U8|819-2740  1922 aa
+Sequence 2: YP_009725299.1      1945 aa
+Output file name is the same as input file.
+Start of Pairwise alignments
+Aligning...
+
+Sequences (1:2) Aligned. Score:  76
+Guide tree file created:   [align_nsp3_cov1_cov2.dnd]
+
+There are 1 groups
+Start of Multiple Alignment
+
+Aligning...
+Group 1: Sequences:   2      Score:37485
+Alignment Score 9392
+firstres = 1 lastres = 1948
+FASTA file created!
+
+Fasta-Alignment file created    [align_nsp3_cov1_cov2.fasta]
+
